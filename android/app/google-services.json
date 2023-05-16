@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "507105379210",
+    "project_id": "react-native-crud-252ba",
+    "storage_bucket": "react-native-crud-252ba.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:507105379210:android:e8a19a3aa4327d089cbe73",
+        "android_client_info": {
+          "package_name": "com.city_shop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "507105379210-fg45uap5rqb146sp253adgomqhcqpmn2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.city_shop",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "507105379210-g3d5it0cjt1uusvka7b1f6fbsf8pmgo5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNVhyM-xJvyLTe8UGM-SjVVxESxIO4X8k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "507105379210-g3d5it0cjt1uusvka7b1f6fbsf8pmgo5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
