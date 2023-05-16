@@ -26,14 +26,16 @@ const App = () => {
     }
   };
   return (
-    <View className="mt-8 px-5  bg-slate-500 py-2">
-      <Text className="text-red-600">
+    <View className="mt-8 px-5  bg-slate-500 py-2 items-center">
+      <Text className="text-black font-bold text-xl">
         Name: {myData ? myData.Name : 'Loging...'}
       </Text>
-      <Text className="text-red-900">
+      <Text className="text-black font-bold text-xl">
         Age: {myData ? myData.Age : 'Loging...'}
       </Text>
-      <Text>City: {myData ? myData.City : 'Loging...'}</Text>
+      <Text className="text-black font-bold text-xl">
+        City: {myData ? myData.City : 'Loging...'}
+      </Text>
     </View>
   );
 };
